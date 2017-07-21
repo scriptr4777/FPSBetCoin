@@ -1,0 +1,2 @@
+debian/bin/copypastad usr/bin
+src/copypastad usr/lib/copypasta

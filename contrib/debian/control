@@ -1,0 +1,55 @@
+Source: copypasta
+Section: utils
+Priority: optional
+Build-Depends: debhelper,
+ devscripts,
+ bash-completion,
+ libboost-system-dev (>> 1.35) | libboost-system1.35-dev,
+ libdb4.8++-dev,
+ libssl-dev,
+ pkg-config,
+ libminiupnpc8-dev,
+ libboost-filesystem-dev (>> 1.35) | libboost-filesystem1.35-dev,
+ libboost-program-options-dev (>> 1.35) | libboost-program-options1.35-dev,
+ libboost-thread-dev (>> 1.35) | libboost-thread1.35-dev,
+ libboost-test-dev (>> 1.35) | libboost-test1.35-dev,
+ qt4-qmake,
+ libqt4-dev,
+ libqrencode-dev
+Standards-Version: 3.9.2
+Homepage: http://www.copypasta.co
+
+Package: copypastad
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: P2P digital currency - daemon
+ Copypasta is a free open source peer-to-peer electronic currency system that
+ is completely decentralized, without the need for a central server or
+ trusted parties.  Users hold the private keys for their own coins and
+ transact directly with each other, with the help of a P2P network to
+ check for double-spending.
+ .
+ By default connects to an IRC network to discover other peers.
+ .
+ Full transaction history is stored locally at each client. The size of
+ this file grows over time.
+ .
+ This package provides copypastad, a combined daemon and CLI tool to
+ interact with the daemon.
+
+Package: copypasta-qt
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: P2P network based digital currency - Qt GUI
+ Coypasta is a free open source peer-to-peer electronic currency that
+ is completely decentralized, without the need for a central server or
+ trusted parties.  Users hold the keys to their own coins and
+ transact directly with each other, with the help of a P2P network to
+ check for double-spending.
+ .
+ By default connects to an IRC network to discover other peers.
+ .
+ Full transaction history is stored locally at each client.  The size of
+ this file grows over time.
+ .
+ This package provides Copypasta-Qt, a GUI for Copypasta based on Qt.
