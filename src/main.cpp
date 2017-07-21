@@ -2469,9 +2469,7 @@ bool LoadBlockIndex(bool fAllowNew)
         block.nBits    = bnProofOfWorkLimit.GetCompact();
         block.nNonce   = !fTestNet ? 25312 : 25312;
 		
-// uncomment to log genesis block info
-      //  start
-        if (true && block.GetHash() != hashGenesisBlock)
+        if (false && block.GetHash() != hashGenesisBlock)
                       {
                            printf("Searching for genesis block...\n");
                            uint256 hashTarget = CBigNum().SetCompact(block.nBits).getuint256();
