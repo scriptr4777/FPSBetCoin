@@ -27,7 +27,12 @@ namespace Checkpoints
     //
     static MapCheckpoints mapCheckpoints =
         boost::assign::map_list_of
-        ( 0, hashGenesisBlock )		
+        ( 0, hashGenesisBlock )
+        ( 100, uint256("0x000000086dbdfb675f6c11a5292abfda2ed3b34502868a9c04768b148dd48e08"))
+		( 1000, uint256("0x0000000002679f4cb25a9737fc50439290319c11b7355c3b32e75b9d8c205f88"))
+		( 10000, uint256("0x2d718199a7341777281e5961e12828e651eef363f4198b3785e1a7e0e4811459"))
+        ( 60000, uint256("0x00000000012af515e5e2909a430399ad007200fadebce09fa4471f659ed23378"))
+        
     ;
 
     // TestNet
@@ -356,8 +361,7 @@ namespace Checkpoints
 }
 
 // ppcoin: sync-checkpoint master key                 
-const std::string CSyncCheckpoint::strMasterPubKey = "0410c2dd8029d5c3f10f36f5bfeadee87f004a39b60fc4256beee1cd944144bd72d97622a66a24c50bd8f0986db4ea0593ce48d114f362562bee13acd126832e70";
-
+const std::string CSyncCheckpoint::strMasterPubKey = "04e360c2971529ad1efece09c0dddd65f2805d4b4ede063a06aa2b3822ad4bce9b30c722f96c47a8711d9a594c2cb326f3cd8069e1c2edbe14eeaae4e5cc75f300";
 std::string CSyncCheckpoint::strMasterPrivKey = "";
 
 // ppcoin: verify signature of sync-checkpoint message
