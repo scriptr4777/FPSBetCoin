@@ -1289,7 +1289,10 @@ void MapPort()
 // The second name should resolve to a list of seed addresses.
 
 static const char *strDNSSeed[][2] = {
-    {"pok.pasta", "104.238.130.36"},
+    {"pok.pasta1", "seed1.copy.trade"},
+	{"pok.pasta2", "seed2.copy.trade"},
+	{"pok.pasta3", "seed3.copy.trade"},
+	{"pok.pasta4", "seed4.copy.trade"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
