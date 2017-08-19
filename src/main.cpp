@@ -2458,7 +2458,7 @@ bool LoadBlockIndex(bool fAllowNew)
         if (!fAllowNew)
             return false;
 
-        const char* pszTimestamp = "copypasta born";
+        const char* pszTimestamp = "Time to game 8/19/2017";
         CTransaction txNew;
         txNew.nTime = 1500595052;
         txNew.vin.resize(1);
