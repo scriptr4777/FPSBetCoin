@@ -46,7 +46,7 @@ static const unsigned int LOCKTIME_THRESHOLD = 500000000; // Tue Nov  5 00:53:20
 
 
 
-static const uint256 hashGenesisBlock("0x0000088c82ad4ebc8f7595e94a9b134ba8b85d12a17111a5374b1ffba0652c79");
+static const uint256 hashGenesisBlock("0x");
 static const uint256 hashGenesisBlockTestNet("0x");
 
 
