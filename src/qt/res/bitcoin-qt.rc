@@ -1,4 +1,4 @@
-IDI_ICON1 ICON DISCARDABLE "icons/copypasta.ico"
+IDI_ICON1 ICON DISCARDABLE "icons/fpsbetcoin.ico"
 
 #include <windows.h>             // needed for VERSIONINFO
 #include "../../clientversion.h" // holds the needed client version information
@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "copypasta"
-            VALUE "FileDescription",    "copypasta-Qt (OSS GUI client for copypasta)"
+            VALUE "CompanyName",        "fpsbetcoin"
+            VALUE "FileDescription",    "fpsbetcoin-Qt (OSS GUI client for fpsbetcoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "psi-qt"
-            VALUE "LegalCopyright",     "2017 The copypasta developers"
+            VALUE "LegalCopyright",     "2017 The fpsbetcoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "psi-qt.exe"
-            VALUE "ProductName",        "copypasta-Qt"
+            VALUE "ProductName",        "fpsbetcoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

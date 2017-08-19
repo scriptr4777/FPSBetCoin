@@ -3,26 +3,26 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About copypasta</source>
-        <translation>Om copypasta</translation>
+        <source>About fpsbetcoin</source>
+        <translation>Om fpsbetcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;copypasta&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;copypasta&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;fpsbetcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;fpsbetcoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2015 The Bitcoin developers
-Copyright © 2012-2014 The copypasta developers
+Copyright © 2012-2014 The fpsbetcoin developers
 Copyright © 2014 The BlackCoin developers
 Copyright © 2014 The ShadowCash developers
-Copyright © 2014-2015 The copypasta developers</source>
+Copyright © 2014-2015 The fpsbetcoin developers</source>
         <translation>Copyright © 2009-2015 The Bitcoin developers
-Copyright © 2012-2014 The copypasta developers
+Copyright © 2012-2014 The fpsbetcoin developers
 Copyright © 2014 The BlackCoin developers
 Copyright © 2014 The ShadowCash developers
-Copyright © 2014-2015 The copypasta developers</translation>
+Copyright © 2014-2015 The fpsbetcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -69,8 +69,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your copypasta addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine copypasta adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
+        <source>These are your fpsbetcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine fpsbetcoin adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -84,8 +84,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own an copypasta address</source>
-        <translation>Signerer en meddelelse for at bevise du ejer en copypasta adresse</translation>
+        <source>Sign a message to prove you own an fpsbetcoin address</source>
+        <translation>Signerer en meddelelse for at bevise du ejer en fpsbetcoin adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -99,8 +99,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified copypasta address</source>
-        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret copypasta adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified fpsbetcoin address</source>
+        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret fpsbetcoin adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -267,8 +267,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>copypasta will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>copypasta lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
+        <source>fpsbetcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>fpsbetcoin lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -381,8 +381,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about copypasta</source>
-        <translation>Vis oplysninger om copypasta</translation>
+        <source>Show information about fpsbetcoin</source>
+        <translation>Vis oplysninger om fpsbetcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -431,13 +431,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to an copypasta address</source>
-        <translation>Send mønter til en copypasta adresse</translation>
+        <source>Send coins to an fpsbetcoin address</source>
+        <translation>Send mønter til en fpsbetcoin adresse</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for copypasta</source>
-        <translation>Ændre indstillingsmuligheder for copypasta</translation>
+        <source>Modify configuration options for fpsbetcoin</source>
+        <translation>Ændre indstillingsmuligheder for fpsbetcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -476,8 +476,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>copypasta</source>
-        <translation>copypasta</translation>
+        <source>fpsbetcoin</source>
+        <translation>fpsbetcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -486,8 +486,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About copypasta</source>
-        <translation>&amp;Om copypasta</translation>
+        <source>&amp;About fpsbetcoin</source>
+        <translation>&amp;Om fpsbetcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -543,13 +543,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>copypasta client</source>
-        <translation>copypasta klient</translation>
+        <source>fpsbetcoin client</source>
+        <translation>fpsbetcoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to copypasta network</source>
-        <translation><numerusform>%n aktiv forbindelse til copypasta netværk</numerusform><numerusform>%n aktive forbindelser til copypasta netværk</numerusform></translation>
+        <source>%n active connection(s) to fpsbetcoin network</source>
+        <translation><numerusform>%n aktiv forbindelse til fpsbetcoin netværk</numerusform><numerusform>%n aktive forbindelser til fpsbetcoin netværk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -663,8 +663,8 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid copypasta address or malformed URI parameters.</source>
-        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig copypasta adresse eller misdannede URI parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid fpsbetcoin address or malformed URI parameters.</source>
+        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig fpsbetcoin adresse eller misdannede URI parametre.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -723,7 +723,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. copypasta can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. fpsbetcoin can no longer continue safely and will quit.</source>
         <translation>Der opstod en fejl under forsøg på at gemme dataene i tegnebogen til den nye placering.</translation>
     </message>
 </context>
@@ -1057,8 +1057,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid copypasta address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig copypasta adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid fpsbetcoin address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig fpsbetcoin adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>copypasta-Qt</source>
-        <translation>copypasta-Qt</translation>
+        <source>fpsbetcoin-Qt</source>
+        <translation>fpsbetcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start copypasta after logging in to the system.</source>
-        <translation>Automatisk start copypasta efter at have logget ind på systemet.</translation>
+        <source>Automatically start fpsbetcoin after logging in to the system.</source>
+        <translation>Automatisk start fpsbetcoin efter at have logget ind på systemet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start copypasta on system login</source>
-        <translation>&amp;Start copypasta ved systems login</translation>
+        <source>&amp;Start fpsbetcoin on system login</source>
+        <translation>&amp;Start fpsbetcoin ved systems login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1174,8 +1174,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the copypasta client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisk åbne copypasta klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
+        <source>Automatically open the fpsbetcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisk åbne fpsbetcoin klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1184,8 +1184,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the copypasta network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Opret forbindelse til copypasta netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
+        <source>Connect to the fpsbetcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Opret forbindelse til fpsbetcoin netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1259,8 +1259,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting copypasta.</source>
-        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af copypasta tegnebog.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting fpsbetcoin.</source>
+        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af fpsbetcoin tegnebog.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1274,8 +1274,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show copypasta addresses in the transaction list or not.</source>
-        <translation>Få vist copypasta adresser på listen over transaktioner eller ej.</translation>
+        <source>Whether to show fpsbetcoin addresses in the transaction list or not.</source>
+        <translation>Få vist fpsbetcoin adresser på listen over transaktioner eller ej.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1321,8 +1321,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting copypasta.</source>
-        <translation>Denne indstilling vil træde i kraft efter genstart af copypasta.</translation>
+        <source>This setting will take effect after restarting fpsbetcoin.</source>
+        <translation>Denne indstilling vil træde i kraft efter genstart af fpsbetcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1340,8 +1340,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the copypasta network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med copypasta netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the fpsbetcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med fpsbetcoin netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1556,8 +1556,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the copypasta-Qt help message to get a list with possible copypasta command-line options.</source>
-        <translation>Vis copypasta-Qt hjælpe besked for at få en liste med mulige copypasta kommandolinjeparametre.</translation>
+        <source>Show the fpsbetcoin-Qt help message to get a list with possible fpsbetcoin command-line options.</source>
+        <translation>Vis fpsbetcoin-Qt hjælpe besked for at få en liste med mulige fpsbetcoin kommandolinjeparametre.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1576,13 +1576,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>copypasta - Debug window</source>
-        <translation>copypasta - Debug vindue</translation>
+        <source>fpsbetcoin - Debug window</source>
+        <translation>fpsbetcoin - Debug vindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>copypasta Core</source>
-        <translation>copypasta Kerne</translation>
+        <source>fpsbetcoin Core</source>
+        <translation>fpsbetcoin Kerne</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1591,8 +1591,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the copypasta debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn copypasta debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
+        <source>Open the fpsbetcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn fpsbetcoin debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1601,8 +1601,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the copypasta RPC console.</source>
-        <translation>Velkommen til copypasta RPC-konsol.</translation>
+        <source>Welcome to the fpsbetcoin RPC console.</source>
+        <translation>Velkommen til fpsbetcoin RPC-konsol.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1760,8 +1760,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter an copypasta address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
-        <translation>Indtast en copypasta-adresse (f.eks F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
+        <source>Enter an fpsbetcoin address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
+        <translation>Indtast en fpsbetcoin-adresse (f.eks F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1860,8 +1860,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid copypasta address</source>
-        <translation>ADVARSEL: Ugyldig copypasta adresse</translation>
+        <source>WARNING: Invalid fpsbetcoin address</source>
+        <translation>ADVARSEL: Ugyldig fpsbetcoin adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1934,8 +1934,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter an copypasta address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
-        <translation>Indtast en copypasta-adresse (f.eks F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
+        <source>Enter an fpsbetcoin address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
+        <translation>Indtast en fpsbetcoin-adresse (f.eks F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
     </message>
 </context>
 <context>
@@ -1995,8 +1995,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this copypasta address</source>
-        <translation>Underskriv brevet for at bevise du ejer denne copypasta adresse</translation>
+        <source>Sign the message to prove you own this fpsbetcoin address</source>
+        <translation>Underskriv brevet for at bevise du ejer denne fpsbetcoin adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2027,8 +2027,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified copypasta address</source>
-        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne copypasta adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified fpsbetcoin address</source>
+        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne fpsbetcoin adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2038,8 +2038,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter an copypasta address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
-        <translation>Indtast en copypasta-adresse (f.eks F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
+        <source>Enter an fpsbetcoin address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
+        <translation>Indtast en fpsbetcoin-adresse (f.eks F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2048,8 +2048,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter copypasta signature</source>
-        <translation>Indtast copypasta underskrift</translation>
+        <source>Enter fpsbetcoin signature</source>
+        <translation>Indtast fpsbetcoin underskrift</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2619,8 +2619,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>copypasta version</source>
-        <translation>copypasta version</translation>
+        <source>fpsbetcoin version</source>
+        <translation>fpsbetcoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2629,8 +2629,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or copypastad</source>
-        <translation>Send kommando til-server eller copypastad</translation>
+        <source>Send command to -server or fpsbetcoind</source>
+        <translation>Send kommando til-server eller fpsbetcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2649,13 +2649,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: copypasta.conf)</source>
-        <translation>Angiv konfigurationsfil (default: copypasta.conf)</translation>
+        <source>Specify configuration file (default: fpsbetcoin.conf)</source>
+        <translation>Angiv konfigurationsfil (default: fpsbetcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: copypastad.pid)</source>
-        <translation>Angiv pid fil (standard: copypastad.pid)</translation>
+        <source>Specify pid file (default: fpsbetcoind.pid)</source>
+        <translation>Angiv pid fil (standard: fpsbetcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2804,8 +2804,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong copypasta will not work properly.</source>
-        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil copypasta ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong fpsbetcoin will not work properly.</source>
+        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil fpsbetcoin ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2994,24 +2994,24 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=copypastarpc
+rpcuser=fpsbetcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;copypasta Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;fpsbetcoin Alert&quot; admin@foo.com
 </source>
         <translation>% s, skal du indstille et rpcpassword i konfigurationsfilen: 
 % s 
 Det anbefales at bruge følgende tilfældig adgangskode: 
-rpcuser = copypastarpc  
+rpcuser = fpsbetcoinrpc  
 rpcpassword =% s  
 (du behøver ikke at huske denne adgangskode)  
 Brugernavn og adgangskode må ikke være den samme.  
 Hvis filen ikke findes, skal du oprette den med filtilladelser ejer-læsbar-kun. 
 Det kan også anbefales at sætte alertnotify så du får besked om problemer; 
-for eksempel: alertnotify = echo%% s | mail-s &quot;copypasta Alert&quot; admin@foo.com 
+for eksempel: alertnotify = echo%% s | mail-s &quot;fpsbetcoin Alert&quot; admin@foo.com 
 </translation>
     </message>
     <message>
@@ -3136,13 +3136,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;copypasta Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  copypasta is probably already running.</source>
-        <translation>Kan ikke få en lås på data mappe% s. copypasta kører sikkert allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s.  fpsbetcoin is probably already running.</source>
+        <translation>Kan ikke få en lås på data mappe% s. fpsbetcoin kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>copypasta</source>
-        <translation>copypasta</translation>
+        <source>fpsbetcoin</source>
+        <translation>fpsbetcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3176,13 +3176,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;copypasta Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of copypasta</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af copypasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of fpsbetcoin</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af fpsbetcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart copypasta to complete</source>
-        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart copypasta for fuldføre</translation>
+        <source>Wallet needed to be rewritten: restart fpsbetcoin to complete</source>
+        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart fpsbetcoin for fuldføre</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3251,8 +3251,8 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;copypasta Alert&quot; admin@
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. copypasta is probably already running.</source>
-        <translation>Kunne ikke binde sig til% s på denne computer. copypasta kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. fpsbetcoin is probably already running.</source>
+        <translation>Kunne ikke binde sig til% s på denne computer. fpsbetcoin kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-97"/>

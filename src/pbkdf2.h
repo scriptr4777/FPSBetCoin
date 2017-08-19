@@ -1,4 +1,4 @@
-// Copyright (c) 2013 copypasta Developers
+// Copyright (c) 2013 fpsbetcoin Developers
 
 #ifndef PBKDF2_H
 #define PBKDF2_H

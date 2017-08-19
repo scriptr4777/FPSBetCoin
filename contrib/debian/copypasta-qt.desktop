@@ -1,12 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=copypasta
-Comment=copypasta P2P Cryptocurrency
-Comment[fr]=copypasta, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=copypasta, eşten eşe kriptografik sanal para birimi
-Exec=/usr/bin/copypasta-qt
+Name=fpsbetcoin
+Comment=fpsbetcoin P2P Cryptocurrency
+Comment[fr]=fpsbetcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=fpsbetcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/fpsbetcoin-qt
 Terminal=false
 Type=Application
 Icon=/usr/share/pixmaps/bitcoin80.xpm
-MimeType=x-scheme-handler/copypasta;
+MimeType=x-scheme-handler/fpsbetcoin;
 Categories=Office;

@@ -3,21 +3,21 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About copypasta</source>
-        <translation>O copypasta</translation>
+        <source>About fpsbetcoin</source>
+        <translation>O fpsbetcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;copypasta&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;copypasta&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;fpsbetcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;fpsbetcoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2015 The Bitcoin developers
-Copyright © 2012-2014 The copypasta developers
+Copyright © 2012-2014 The fpsbetcoin developers
 Copyright © 2014 The BlackCoin developers 
 Copyright © 2014 The ShadowCash developers
-Copyright © 2014-2015 The copypasta developers</source>
+Copyright © 2014-2015 The fpsbetcoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -65,8 +65,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your copypasta addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši copypasta naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your fpsbetcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši fpsbetcoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own an copypasta address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva copypasta naslova</translation>
+        <source>Sign a message to prove you own an fpsbetcoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva fpsbetcoin naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified copypasta address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim copypasta naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified fpsbetcoin address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim fpsbetcoin naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>copypasta will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>copypasta se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>fpsbetcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>fpsbetcoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about copypasta</source>
-        <translation>Pokaži informacije o copypasta</translation>
+        <source>Show information about fpsbetcoin</source>
+        <translation>Pokaži informacije o fpsbetcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to an copypasta address</source>
-        <translation>Pošlji kovance na copypasta naslov</translation>
+        <source>Send coins to an fpsbetcoin address</source>
+        <translation>Pošlji kovance na fpsbetcoin naslov</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for copypasta</source>
-        <translation>Spremeni nastavitve za copypasta</translation>
+        <source>Modify configuration options for fpsbetcoin</source>
+        <translation>Spremeni nastavitve za fpsbetcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>copypasta</source>
-        <translation>copypasta</translation>
+        <source>fpsbetcoin</source>
+        <translation>fpsbetcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About copypasta</source>
-        <translation>&amp;O copypasta</translation>
+        <source>&amp;About fpsbetcoin</source>
+        <translation>&amp;O fpsbetcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>copypasta client</source>
-        <translation>copypasta program</translation>
+        <source>fpsbetcoin client</source>
+        <translation>fpsbetcoin program</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to copypasta network</source>
-        <translation><numerusform>%n aktivne povezave na copypasta omrežje</numerusform><numerusform>%n aktivnih povezav na copypasta omrežje</numerusform><numerusform>%n aktivnih povezav na copypasta omrežje</numerusform><numerusform>%n aktivnih povezav na copypasta omrežje</numerusform></translation>
+        <source>%n active connection(s) to fpsbetcoin network</source>
+        <translation><numerusform>%n aktivne povezave na fpsbetcoin omrežje</numerusform><numerusform>%n aktivnih povezav na fpsbetcoin omrežje</numerusform><numerusform>%n aktivnih povezav na fpsbetcoin omrežje</numerusform><numerusform>%n aktivnih povezav na fpsbetcoin omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid copypasta address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega copypasta naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid fpsbetcoin address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega fpsbetcoin naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. copypasta can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program copypasta se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. fpsbetcoin can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program fpsbetcoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid copypasta address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven copypasta naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid fpsbetcoin address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven fpsbetcoin naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>copypasta-Qt</source>
-        <translation>copypasta-Qt</translation>
+        <source>fpsbetcoin-Qt</source>
+        <translation>fpsbetcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start copypasta after logging in to the system.</source>
-        <translation>Avtomatično zaženi copypasta ob zagonu sistema.</translation>
+        <source>Automatically start fpsbetcoin after logging in to the system.</source>
+        <translation>Avtomatično zaženi fpsbetcoin ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start copypasta on system login</source>
-        <translation>&amp;Zaženi copypasta ob prijavi v sistem</translation>
+        <source>&amp;Start fpsbetcoin on system login</source>
+        <translation>&amp;Zaženi fpsbetcoin ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the copypasta client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za copypasta program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the fpsbetcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za fpsbetcoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the copypasta network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na copypasta omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the fpsbetcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na fpsbetcoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting copypasta.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu copypasta aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting fpsbetcoin.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu fpsbetcoin aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show copypasta addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza copypasta naslovov v seznamu transakcij.</translation>
+        <source>Whether to show fpsbetcoin addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza fpsbetcoin naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting copypasta.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu copypasta aplikacije</translation>
+        <source>This setting will take effect after restarting fpsbetcoin.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu fpsbetcoin aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the copypasta network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z copypasta omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the fpsbetcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z fpsbetcoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the copypasta-Qt help message to get a list with possible copypasta command-line options.</source>
-        <translation>Prikaži copypasta-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice copypasta aplikacije</translation>
+        <source>Show the fpsbetcoin-Qt help message to get a list with possible fpsbetcoin command-line options.</source>
+        <translation>Prikaži fpsbetcoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice fpsbetcoin aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>copypasta - Debug window</source>
-        <translation>copypasta - okno za odpravljanje napak</translation>
+        <source>fpsbetcoin - Debug window</source>
+        <translation>fpsbetcoin - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>copypasta Core</source>
-        <translation>copypasta jedro</translation>
+        <source>fpsbetcoin Core</source>
+        <translation>fpsbetcoin jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the copypasta debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri copypasta datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the fpsbetcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri fpsbetcoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the copypasta RPC console.</source>
-        <translation>Dobrodošli v copypasta RPC konzoli.</translation>
+        <source>Welcome to the fpsbetcoin RPC console.</source>
+        <translation>Dobrodošli v fpsbetcoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter an copypasta address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
-        <translation>Vnesite copypasta naslov (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
+        <source>Enter an fpsbetcoin address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
+        <translation>Vnesite fpsbetcoin naslov (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid copypasta address</source>
-        <translation>OPOZORILO: Neveljaven copypasta naslov</translation>
+        <source>WARNING: Invalid fpsbetcoin address</source>
+        <translation>OPOZORILO: Neveljaven fpsbetcoin naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter an copypasta address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
-        <translation>Vnesite copypasta naslov (npr. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
+        <source>Enter an fpsbetcoin address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
+        <translation>Vnesite fpsbetcoin naslov (npr. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this copypasta address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva copypasta naslova</translation>
+        <source>Sign the message to prove you own this fpsbetcoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva fpsbetcoin naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified copypasta address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim copypasta naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified fpsbetcoin address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim fpsbetcoin naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter an copypasta address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
-        <translation>Vnesite copypasta naslov (npr. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
+        <source>Enter an fpsbetcoin address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
+        <translation>Vnesite fpsbetcoin naslov (npr. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter copypasta signature</source>
-        <translation>Vnesite copypasta podpis</translation>
+        <source>Enter fpsbetcoin signature</source>
+        <translation>Vnesite fpsbetcoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>copypasta version</source>
-        <translation>copypasta različica</translation>
+        <source>fpsbetcoin version</source>
+        <translation>fpsbetcoin različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or copypastad</source>
-        <translation>Pošlji ukaz na -server ali copypastad</translation>
+        <source>Send command to -server or fpsbetcoind</source>
+        <translation>Pošlji ukaz na -server ali fpsbetcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: copypasta.conf)</source>
-        <translation>Določi konfiguracijsko datoteko (privzeto: copypasta.conf)</translation>
+        <source>Specify configuration file (default: fpsbetcoin.conf)</source>
+        <translation>Določi konfiguracijsko datoteko (privzeto: fpsbetcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: copypastad.pid)</source>
-        <translation>Določi pid datoteko (privzeto: copypastad.pid)</translation>
+        <source>Specify pid file (default: fpsbetcoind.pid)</source>
+        <translation>Določi pid datoteko (privzeto: fpsbetcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2800,8 +2800,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong copypasta will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno copypasta ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong fpsbetcoin will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno fpsbetcoin ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,24 +2990,24 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=copypastarpc
+rpcuser=fpsbetcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;copypasta Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;fpsbetcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
 Priporočeno je, da uporabite naslednje naključno geslo:
-rpcuser=copypastarpc
+rpcuser=fpsbetcoinrpc
 rpcpassword=%s
 (tega gesla si vam ni potrebno zapomniti)
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;copypasta Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;fpsbetcoin Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3132,13 +3132,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;copypasta Alarm&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  copypasta is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija copypasta je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  fpsbetcoin is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija fpsbetcoin je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>copypasta</source>
-        <translation>copypasta</translation>
+        <source>fpsbetcoin</source>
+        <translation>fpsbetcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3172,13 +3172,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;copypasta Alarm&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of copypasta</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo copypasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of fpsbetcoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo fpsbetcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart copypasta to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite copypasta za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart fpsbetcoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite fpsbetcoin za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3247,8 +3247,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;copypasta Alarm&quot; admin@foo.
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. copypasta is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča copypasta aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. fpsbetcoin is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča fpsbetcoin aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

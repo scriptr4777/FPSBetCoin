@@ -1,8 +1,8 @@
-copypasta
+fpsbetcoin
 
-Copyright (c) 2014 copypasta Developers
+Copyright (c) 2014 fpsbetcoin Developers
 Copyright (c) 2014 BlackCoin Developers
-Copyright (c) 2013 copypasta Developers
+Copyright (c) 2013 fpsbetcoin Developers
 Copyright (c) 2011-2013 PPCoin Developers
 Distributed under the MIT/X11 software license, see the accompanying
 file license.txt or http://www.opensource.org/licenses/mit-license.php.
@@ -13,8 +13,8 @@ cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 Intro
 -----
-copypasta is a free open source project derived from Bitcoin, with
+fpsbetcoin is a free open source project derived from Bitcoin, with
 the goal of providing a long-term energy-efficient scrypt-based crypto-currency.
-Built on the foundation of Bitcoin, PPCoin, copypasta and BlackCoin, innovations such as proof-of-stake
+Built on the foundation of Bitcoin, PPCoin, fpsbetcoin and BlackCoin, innovations such as proof-of-stake
 help further advance the field of crypto-currency.
 

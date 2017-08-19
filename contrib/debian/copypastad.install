@@ -1,2 +1,2 @@
-debian/bin/copypastad usr/bin
-src/copypastad usr/lib/copypasta
+debian/bin/fpsbetcoind usr/bin
+src/fpsbetcoind usr/lib/fpsbetcoin

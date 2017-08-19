@@ -189,7 +189,7 @@ bool GetIPFromIRC(SOCKET hSocket, string strMyName, CNetAddr& ipRet)
 void ThreadIRCSeed(void* parg)
 {
     // Make this thread recognisable as the IRC seeding thread
-    RenameThread("copypasta-ircseed");
+    RenameThread("fpsbetcoin-ircseed");
 
     try
     {
@@ -303,17 +303,17 @@ void ThreadIRCSeed2(void* parg)
 
         if (fTestNet)
         {
-            Send(hSocket, "JOIN #copypastaTEST\r");
-            Send(hSocket, "WHO #copypastaTEST\r");
+            Send(hSocket, "JOIN #fpsbetcoinTEST\r");
+            Send(hSocket, "WHO #fpsbetcoinTEST\r");
         } else
         {
-            // randomly join #copypasta00-#copypasta05
+            // randomly join #fpsbetcoin00-#fpsbetcoin05
             //int channel_number = GetRandInt(5);
 
             // Channel number is always 0 for initial release
             int channel_number = 0;
-            Send(hSocket, strprintf("JOIN #copypasta%02d\r", channel_number).c_str());
-            Send(hSocket, strprintf("WHO #copypasta%02d\r", channel_number).c_str());
+            Send(hSocket, strprintf("JOIN #fpsbetcoin%02d\r", channel_number).c_str());
+            Send(hSocket, strprintf("WHO #fpsbetcoin%02d\r", channel_number).c_str());
         }
 
         int64_t nStart = GetTime();

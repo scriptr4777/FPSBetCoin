@@ -3,26 +3,26 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About copypasta</source>
-        <translation>Acerca de copypasta</translation>
+        <source>About fpsbetcoin</source>
+        <translation>Acerca de fpsbetcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;copypasta&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;copypasta&lt;/b&gt; versión</translation>
+        <source>&lt;b&gt;fpsbetcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;fpsbetcoin&lt;/b&gt; versión</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2015 The Bitcoin developers
-Copyright © 2012-2014 The copypasta developers
+Copyright © 2012-2014 The fpsbetcoin developers
 Copyright © 2014 The BlackCoin developers
 Copyright © 2014 The ShadowCash developers
-Copyright © 2014-2015 The copypasta developers</source>
+Copyright © 2014-2015 The fpsbetcoin developers</source>
         <translation>Copyright © 2009-2015 The Bitcoin developers
-Copyright © 2012-2014 The copypasta developers
+Copyright © 2012-2014 The fpsbetcoin developers
 Copyright © 2014 The BlackCoin developers
 Copyright © 2014 The ShadowCash developers
-Copyright © 2014-2015 The copypasta developers</translation>
+Copyright © 2014-2015 The fpsbetcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -72,8 +72,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your copypasta addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son las direcciones de copypasta para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
+        <source>These are your fpsbetcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son las direcciones de fpsbetcoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -87,8 +87,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own an copypasta address</source>
-        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de copypasta</translation>
+        <source>Sign a message to prove you own an fpsbetcoin address</source>
+        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de fpsbetcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -102,8 +102,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified copypasta address</source>
-        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de copypasta</translation>
+        <source>Verify a message to ensure it was signed with a specified fpsbetcoin address</source>
+        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de fpsbetcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -270,8 +270,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-58"/>
-        <source>copypasta will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>copypasta cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
+        <source>fpsbetcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>fpsbetcoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -384,8 +384,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about copypasta</source>
-        <translation>Mostrar información sobre copypasta</translation>
+        <source>Show information about fpsbetcoin</source>
+        <translation>Mostrar información sobre fpsbetcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -434,13 +434,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to an copypasta address</source>
-        <translation>Enviar monedas a una dirección de copypasta</translation>
+        <source>Send coins to an fpsbetcoin address</source>
+        <translation>Enviar monedas a una dirección de fpsbetcoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for copypasta</source>
-        <translation>Modificar las opciones de configuración para copypasta</translation>
+        <source>Modify configuration options for fpsbetcoin</source>
+        <translation>Modificar las opciones de configuración para fpsbetcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -479,8 +479,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-200"/>
-        <source>copypasta</source>
-        <translation>copypasta</translation>
+        <source>fpsbetcoin</source>
+        <translation>fpsbetcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -489,8 +489,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About copypasta</source>
-        <translation>Acerca de copypasta</translation>
+        <source>&amp;About fpsbetcoin</source>
+        <translation>Acerca de fpsbetcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -546,13 +546,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>copypasta client</source>
-        <translation>Cliente copypasta</translation>
+        <source>fpsbetcoin client</source>
+        <translation>Cliente fpsbetcoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to copypasta network</source>
-        <translation><numerusform>%n conexión activa a la red copypasta</numerusform><numerusform>%n conexiones activas a la red copypasta</numerusform></translation>
+        <source>%n active connection(s) to fpsbetcoin network</source>
+        <translation><numerusform>%n conexión activa a la red fpsbetcoin</numerusform><numerusform>%n conexiones activas a la red fpsbetcoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -666,8 +666,8 @@ Dirección: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid copypasta address or malformed URI parameters.</source>
-        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de copypasta no válida o parámetros de URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid fpsbetcoin address or malformed URI parameters.</source>
+        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de fpsbetcoin no válida o parámetros de URI malformados.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -726,8 +726,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. copypasta can no longer continue safely and will quit.</source>
-        <translation>Se ha producido un error fatal. copypasta ya no puede continuar de forma segura y cerrará.</translation>
+        <source>A fatal error occurred. fpsbetcoin can no longer continue safely and will quit.</source>
+        <translation>Se ha producido un error fatal. fpsbetcoin ya no puede continuar de forma segura y cerrará.</translation>
     </message>
 </context>
 <context>
@@ -1060,8 +1060,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid copypasta address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de copypasta.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid fpsbetcoin address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de fpsbetcoin.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1079,8 +1079,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>copypasta-Qt</source>
-        <translation>copypasta-Qt</translation>
+        <source>fpsbetcoin-Qt</source>
+        <translation>fpsbetcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1152,13 +1152,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start copypasta after logging in to the system.</source>
-        <translation>Iniciar copypasta automáticamente después de entrar en el sistema.</translation>
+        <source>Automatically start fpsbetcoin after logging in to the system.</source>
+        <translation>Iniciar fpsbetcoin automáticamente después de entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start copypasta on system login</source>
-        <translation>&amp;Iniciar copypasta al inicio del sistema</translation>
+        <source>&amp;Start fpsbetcoin on system login</source>
+        <translation>&amp;Iniciar fpsbetcoin al inicio del sistema</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1177,8 +1177,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the copypasta client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto de cliente copypasta en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the fpsbetcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto de cliente fpsbetcoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1187,8 +1187,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the copypasta network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conéctese a la red de copypasta a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
+        <source>Connect to the fpsbetcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conéctese a la red de fpsbetcoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1262,8 +1262,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting copypasta.</source>
-        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar copypasta.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting fpsbetcoin.</source>
+        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar fpsbetcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1277,8 +1277,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show copypasta addresses in the transaction list or not.</source>
-        <translation>Tanto para mostrar direcciones de copypasta en la lista de transacciones o no.</translation>
+        <source>Whether to show fpsbetcoin addresses in the transaction list or not.</source>
+        <translation>Tanto para mostrar direcciones de fpsbetcoin en la lista de transacciones o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1324,8 +1324,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting copypasta.</source>
-        <translation>Esta configuración se aplicará después de reiniciar copypasta.</translation>
+        <source>This setting will take effect after restarting fpsbetcoin.</source>
+        <translation>Esta configuración se aplicará después de reiniciar fpsbetcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1343,8 +1343,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the copypasta network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red copypasta después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the fpsbetcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red fpsbetcoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1559,8 +1559,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the copypasta-Qt help message to get a list with possible copypasta command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de copypasta-Qt para obtener una lista con las posibles opciones de línea de comandos para copypasta.</translation>
+        <source>Show the fpsbetcoin-Qt help message to get a list with possible fpsbetcoin command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de fpsbetcoin-Qt para obtener una lista con las posibles opciones de línea de comandos para fpsbetcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1579,13 +1579,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>copypasta - Debug window</source>
-        <translation>copypasta - Ventana de depuración</translation>
+        <source>fpsbetcoin - Debug window</source>
+        <translation>fpsbetcoin - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>copypasta Core</source>
-        <translation>Núcleo copypasta</translation>
+        <source>fpsbetcoin Core</source>
+        <translation>Núcleo fpsbetcoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1594,8 +1594,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the copypasta debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abre el archivo de registro de copypasta del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
+        <source>Open the fpsbetcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abre el archivo de registro de fpsbetcoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1604,8 +1604,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the copypasta RPC console.</source>
-        <translation>Bienvenido a la consola RPC de copypasta</translation>
+        <source>Welcome to the fpsbetcoin RPC console.</source>
+        <translation>Bienvenido a la consola RPC de fpsbetcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1763,8 +1763,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter an copypasta address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
-        <translation>Introduce una dirección copypasta (p.ej. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
+        <source>Enter an fpsbetcoin address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
+        <translation>Introduce una dirección fpsbetcoin (p.ej. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1863,8 +1863,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid copypasta address</source>
-        <translation>ADVERTENCIA: Dirección copypasta inválida</translation>
+        <source>WARNING: Invalid fpsbetcoin address</source>
+        <translation>ADVERTENCIA: Dirección fpsbetcoin inválida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1937,8 +1937,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter an copypasta address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
-        <translation>Introduce una dirección copypasta (p.ej. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
+        <source>Enter an fpsbetcoin address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
+        <translation>Introduce una dirección fpsbetcoin (p.ej. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
     </message>
 </context>
 <context>
@@ -1998,8 +1998,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this copypasta address</source>
-        <translation>Firma el mensaje para demostrar que posees esta dirección copypasta.</translation>
+        <source>Sign the message to prove you own this fpsbetcoin address</source>
+        <translation>Firma el mensaje para demostrar que posees esta dirección fpsbetcoin.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2030,8 +2030,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified copypasta address</source>
-        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección copypasta especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified fpsbetcoin address</source>
+        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección fpsbetcoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2041,8 +2041,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter an copypasta address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
-        <translation>Introduce una dirección copypasta (p.ej F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
+        <source>Enter an fpsbetcoin address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
+        <translation>Introduce una dirección fpsbetcoin (p.ej F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2051,8 +2051,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter copypasta signature</source>
-        <translation>Introduce la firma copypasta</translation>
+        <source>Enter fpsbetcoin signature</source>
+        <translation>Introduce la firma fpsbetcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2622,8 +2622,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>copypasta version</source>
-        <translation>versión copypasta</translation>
+        <source>fpsbetcoin version</source>
+        <translation>versión fpsbetcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2632,8 +2632,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or copypastad</source>
-        <translation>Envía un comando a -server o copypastad</translation>
+        <source>Send command to -server or fpsbetcoind</source>
+        <translation>Envía un comando a -server o fpsbetcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: copypasta.conf)</source>
-        <translation>Especifica un archivo de configuración (por defecto: copypasta.conf)</translation>
+        <source>Specify configuration file (default: fpsbetcoin.conf)</source>
+        <translation>Especifica un archivo de configuración (por defecto: fpsbetcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: copypastad.pid)</source>
-        <translation>Especifica un archivo pid (por defecto: copypastad.pid)</translation>
+        <source>Specify pid file (default: fpsbetcoind.pid)</source>
+        <translation>Especifica un archivo pid (por defecto: fpsbetcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2813,8 +2813,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong copypasta will not work properly.</source>
-        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo copypasta no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong fpsbetcoin will not work properly.</source>
+        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo fpsbetcoin no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3004,24 +3004,24 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=copypastarpc
+rpcuser=fpsbetcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;copypasta Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;fpsbetcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, debe establecer un rpcpassword en el fichero de configuración:
 %s
 Se recomienda utilizar la siguiente contraseña aleatoria:
-rpcuser=copypastarpc
+rpcuser=fpsbetcoinrpc
 rpcpassword=%s
 (no necesita recordar este password)
 El nombre de usuario y contraseña no debe ser el mismo.
 Si no existe el archivo, créelo con permisos de sólo lectura para el dueño.
 También se recomienda establecer alertnotify para ser notificado de los problemas;
-por ejemplo: alertnotify=echo %%s | mail -s &quot;copypasta Alert&quot; admin@foo.com
+por ejemplo: alertnotify=echo %%s | mail -s &quot;fpsbetcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3153,13 +3153,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;copypasta Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  copypasta is probably already running.</source>
-        <translation>No se puede obtener un bloqueo en el directorio de datos %s. copypasta probablemente ya esté en funcionamiento.</translation>
+        <source>Cannot obtain a lock on data directory %s.  fpsbetcoin is probably already running.</source>
+        <translation>No se puede obtener un bloqueo en el directorio de datos %s. fpsbetcoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>copypasta</source>
-        <translation>copypasta</translation>
+        <source>fpsbetcoin</source>
+        <translation>fpsbetcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3193,13 +3193,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;copypasta Alert&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of copypasta</source>
-        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de copypasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of fpsbetcoin</source>
+        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de fpsbetcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart copypasta to complete</source>
-        <translation>El monedero necesita ser reescrito: reinicie copypasta para completar</translation>
+        <source>Wallet needed to be rewritten: restart fpsbetcoin to complete</source>
+        <translation>El monedero necesita ser reescrito: reinicie fpsbetcoin para completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3268,8 +3268,8 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;copypasta Alert&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. copypasta is probably already running.</source>
-        <translation>No se puede enlazar a %s en este equipo. copypasta probablemente ya esté en funcionamiento.</translation>
+        <source>Unable to bind to %s on this computer. fpsbetcoin is probably already running.</source>
+        <translation>No se puede enlazar a %s en este equipo. fpsbetcoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-97"/>

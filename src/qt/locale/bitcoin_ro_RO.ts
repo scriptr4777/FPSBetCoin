@@ -3,26 +3,26 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About copypasta</source>
-        <translation>Despre copypasta</translation>
+        <source>About fpsbetcoin</source>
+        <translation>Despre fpsbetcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;copypasta&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;copypasta&lt;/b&gt;</translation>
+        <source>&lt;b&gt;fpsbetcoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;fpsbetcoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2015 The Bitcoin developers
-Copyright © 2012-2014 The copypasta developers
+Copyright © 2012-2014 The fpsbetcoin developers
 Copyright © 2014 The BlackCoin developers 
 Copyright © 2014 The ShadowCash developers
-Copyright © 2014-2015 The copypasta developers</source>
+Copyright © 2014-2015 The fpsbetcoin developers</source>
         <translation>Copyright © 2009-2015 The Bitcoin developers
-Copyright © 2012-2014 The copypasta developers
+Copyright © 2012-2014 The fpsbetcoin developers
 Copyright © 2014 The BlackCoin developers 
 Copyright © 2014 The ShadowCash developers
-Copyright © 2014-2015 The copypasta developers</translation>
+Copyright © 2014-2015 The fpsbetcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -69,8 +69,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your copypasta addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele copypasta pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your fpsbetcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele fpsbetcoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -84,8 +84,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own an copypasta address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă copypasta</translation>
+        <source>Sign a message to prove you own an fpsbetcoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă fpsbetcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -99,8 +99,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified copypasta address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă copypasta</translation>
+        <source>Verify a message to ensure it was signed with a specified fpsbetcoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă fpsbetcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -267,8 +267,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>copypasta will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>copypasta se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>fpsbetcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>fpsbetcoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -381,8 +381,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about copypasta</source>
-        <translation>Arată informații despre copypasta</translation>
+        <source>Show information about fpsbetcoin</source>
+        <translation>Arată informații despre fpsbetcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -431,13 +431,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to an copypasta address</source>
-        <translation>Trimite monede către o adresă copypasta</translation>
+        <source>Send coins to an fpsbetcoin address</source>
+        <translation>Trimite monede către o adresă fpsbetcoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for copypasta</source>
-        <translation>Modifică opțiuni de configurare pentru copypasta</translation>
+        <source>Modify configuration options for fpsbetcoin</source>
+        <translation>Modifică opțiuni de configurare pentru fpsbetcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -476,8 +476,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-200"/>
-        <source>copypasta</source>
-        <translation>copypasta</translation>
+        <source>fpsbetcoin</source>
+        <translation>fpsbetcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -486,8 +486,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About copypasta</source>
-        <translation>Despre copypasta</translation>
+        <source>&amp;About fpsbetcoin</source>
+        <translation>Despre fpsbetcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -543,13 +543,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>copypasta client</source>
-        <translation>Clientul copypasta</translation>
+        <source>fpsbetcoin client</source>
+        <translation>Clientul fpsbetcoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to copypasta network</source>
-        <translation><numerusform>%n conexiune activă la reteaua copypasta</numerusform><numerusform>%n conexiuni active la reteaua copypasta</numerusform><numerusform>%n conexiuni active la reteaua copypasta</numerusform></translation>
+        <source>%n active connection(s) to fpsbetcoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua fpsbetcoin</numerusform><numerusform>%n conexiuni active la reteaua fpsbetcoin</numerusform><numerusform>%n conexiuni active la reteaua fpsbetcoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -663,8 +663,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid copypasta address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa copypasta invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid fpsbetcoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa fpsbetcoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -723,8 +723,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. copypasta can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. copypasta nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. fpsbetcoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. fpsbetcoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid copypasta address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă copypasta validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid fpsbetcoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă fpsbetcoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>copypasta-Qt</source>
-        <translation>copypasta-Qt</translation>
+        <source>fpsbetcoin-Qt</source>
+        <translation>fpsbetcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start copypasta after logging in to the system.</source>
-        <translation>Pornește copypasta imdiat după logarea în sistem</translation>
+        <source>Automatically start fpsbetcoin after logging in to the system.</source>
+        <translation>Pornește fpsbetcoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start copypasta on system login</source>
-        <translation>$Pornește copypasta la logarea în sistem</translation>
+        <source>&amp;Start fpsbetcoin on system login</source>
+        <translation>$Pornește fpsbetcoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1174,8 +1174,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the copypasta client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul copypasta pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the fpsbetcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul fpsbetcoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1184,8 +1184,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the copypasta network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua copypasta prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the fpsbetcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua fpsbetcoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1259,8 +1259,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting copypasta.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea copypasta.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting fpsbetcoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea fpsbetcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1274,8 +1274,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show copypasta addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese copypasta din lista de tranzacție sau nu.</translation>
+        <source>Whether to show fpsbetcoin addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese fpsbetcoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1321,8 +1321,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting copypasta.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea copypasta.</translation>
+        <source>This setting will take effect after restarting fpsbetcoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea fpsbetcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1340,8 +1340,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the copypasta network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua copypasta după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the fpsbetcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua fpsbetcoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1556,8 +1556,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the copypasta-Qt help message to get a list with possible copypasta command-line options.</source>
-        <translation>Afișa mesajul de ajutor copypasta-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă copypasta.</translation>
+        <source>Show the fpsbetcoin-Qt help message to get a list with possible fpsbetcoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor fpsbetcoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă fpsbetcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1576,13 +1576,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>copypasta - Debug window</source>
-        <translation>copypasta - fereastră depanare</translation>
+        <source>fpsbetcoin - Debug window</source>
+        <translation>fpsbetcoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>copypasta Core</source>
-        <translation>copypasta Core</translation>
+        <source>fpsbetcoin Core</source>
+        <translation>fpsbetcoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1591,8 +1591,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the copypasta debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare copypasta din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the fpsbetcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare fpsbetcoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1601,8 +1601,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the copypasta RPC console.</source>
-        <translation>Bine ati venit la consola copypasta RPC.</translation>
+        <source>Welcome to the fpsbetcoin RPC console.</source>
+        <translation>Bine ati venit la consola fpsbetcoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1760,8 +1760,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter an copypasta address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
-        <translation>Introduceți o adresă copypasta(ex:F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
+        <source>Enter an fpsbetcoin address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
+        <translation>Introduceți o adresă fpsbetcoin(ex:F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1860,8 +1860,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid copypasta address</source>
-        <translation>Atenție: Adresă copypasta invalidă</translation>
+        <source>WARNING: Invalid fpsbetcoin address</source>
+        <translation>Atenție: Adresă fpsbetcoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1934,8 +1934,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter an copypasta address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
-        <translation>Introduceți o adresă copypasta(ex:F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
+        <source>Enter an fpsbetcoin address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
+        <translation>Introduceți o adresă fpsbetcoin(ex:F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
     </message>
 </context>
 <context>
@@ -1995,8 +1995,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this copypasta address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă copypasta</translation>
+        <source>Sign the message to prove you own this fpsbetcoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă fpsbetcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2027,8 +2027,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified copypasta address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă copypasta</translation>
+        <source>Verify the message to ensure it was signed with the specified fpsbetcoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă fpsbetcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2038,8 +2038,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter an copypasta address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
-        <translation>Introduceți o adresă copypasta(ex:F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
+        <source>Enter an fpsbetcoin address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</source>
+        <translation>Introduceți o adresă fpsbetcoin(ex:F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2048,8 +2048,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter copypasta signature</source>
-        <translation>Introduceti semnatura copypasta</translation>
+        <source>Enter fpsbetcoin signature</source>
+        <translation>Introduceti semnatura fpsbetcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2619,8 +2619,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>copypasta version</source>
-        <translation>Versiune copypasta</translation>
+        <source>fpsbetcoin version</source>
+        <translation>Versiune fpsbetcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2629,8 +2629,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or copypastad</source>
-        <translation>Trimite comanda catre server sau copypastad</translation>
+        <source>Send command to -server or fpsbetcoind</source>
+        <translation>Trimite comanda catre server sau fpsbetcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2649,13 +2649,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: copypasta.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: copypasta.conf)</translation>
+        <source>Specify configuration file (default: fpsbetcoin.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: fpsbetcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: copypastad.pid)</source>
-        <translation>Speficica fisier pid(implicit: copypastad.pid)</translation>
+        <source>Specify pid file (default: fpsbetcoind.pid)</source>
+        <translation>Speficica fisier pid(implicit: fpsbetcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2804,8 +2804,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong copypasta will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit copypasta nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong fpsbetcoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit fpsbetcoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2994,22 +2994,22 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=copypastarpc
+rpcuser=fpsbetcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;copypasta Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;fpsbetcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=copypastarpc
+Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=fpsbetcoinrpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;copypasta Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;fpsbetcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3134,13 +3134,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;copypasta Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  copypasta is probably already running.</source>
-        <translation>Nu se poate obtine un lock pe directorul de date &amp;s. copypasta probabil ruleaza deja.</translation>
+        <source>Cannot obtain a lock on data directory %s.  fpsbetcoin is probably already running.</source>
+        <translation>Nu se poate obtine un lock pe directorul de date &amp;s. fpsbetcoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>copypasta</source>
-        <translation>copypasta</translation>
+        <source>fpsbetcoin</source>
+        <translation>fpsbetcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3174,13 +3174,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;copypasta Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of copypasta</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de copypasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of fpsbetcoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de fpsbetcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart copypasta to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați copypasta pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart fpsbetcoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați fpsbetcoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3249,8 +3249,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;copypasta Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. copypasta is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil copypasta ruleaza</translation>
+        <source>Unable to bind to %s on this computer. fpsbetcoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil fpsbetcoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

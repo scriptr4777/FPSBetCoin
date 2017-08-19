@@ -527,7 +527,7 @@ void StakeMiner(CWallet *pwallet)
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
 
     // Make this thread recognisable as the mining thread
-    RenameThread("copypasta-miner");
+    RenameThread("fpsbetcoin-miner");
 
     bool fTryToSync = true;
 

@@ -1,8 +1,8 @@
 #ifndef QTIPCSERVER_H
 #define QTIPCSERVER_H
 
-// Define copypasta-Qt message queue name
-#define BITCOINURI_QUEUE_NAME "copypastaURI"
+// Define fpsbetcoin-Qt message queue name
+#define BITCOINURI_QUEUE_NAME "fpsbetcoinURI"
 
 void ipcScanRelay(int argc, char *argv[]);
 void ipcInit(int argc, char *argv[]);

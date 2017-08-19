@@ -1,9 +1,9 @@
 <RCC>
     <qresource prefix="/icons">
-        <file alias="bitcoin">res/icons/ctrlv.png</file>
-        <file alias="bitcoin_testnet">res/icons/ctrlv.png</file>
-        <file alias="toolbar">res/icons/ctrlv-64.png</file>
-        <file alias="toolbar_testnet">res/icons/ctrlv-64.png</file>
+        <file alias="bitcoin">res/icons/fpsc.png</file>
+        <file alias="bitcoin_testnet">res/icons/fpsc.png</file>
+        <file alias="toolbar">res/icons/fpsc-64.png</file>
+        <file alias="toolbar_testnet">res/icons/fpsc-64.png</file>
         <file alias="address-book">res/icons/address-book.png</file>
         <file alias="quit">res/icons/quit.png</file>
         <file alias="send">res/icons/send.png</file>

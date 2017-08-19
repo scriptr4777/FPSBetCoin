@@ -37,7 +37,7 @@ SendCoinsDialog::SendCoinsDialog(QWidget *parent) :
 
 #if QT_VERSION >= 0x040700
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter an copypasta address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)"));
+    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter an fpsbetcoin address (e.g. F96m4dNBqCLh7ZYceQnLG7uPuva5mochZK)"));
 #endif
 
     addEntry();
@@ -467,7 +467,7 @@ void SendCoinsDialog::coinControlChangeEdited(const QString & text)
         else if (!CBitcoinAddress(text.toStdString()).IsValid())
         {
             ui->labelCoinControlChangeLabel->setStyleSheet("QLabel{color:orange;}");
-            ui->labelCoinControlChangeLabel->setText(tr("WARNING: Invalid copypasta address"));
+            ui->labelCoinControlChangeLabel->setText(tr("WARNING: Invalid fpsbetcoin address"));
         }
         else
         {

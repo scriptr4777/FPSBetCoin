@@ -158,7 +158,7 @@
        <item>
         <widget class="QPushButton" name="sendButton">
          <property name="toolTip">
-          <string>Sign a message to prove you own an copypasta address</string>
+          <string>Sign a message to prove you own an fpsbetcoin address</string>
          </property>
          <property name="text">
           <string>&amp;Send</string>

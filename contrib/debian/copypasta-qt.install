@@ -1,5 +1,5 @@
-copypasta-qt usr/bin
+fpsbetcoin-qt usr/bin
 share/pixmaps/bitcoin32.xpm usr/share/pixmaps
 share/pixmaps/bitcoin80.xpm usr/share/pixmaps
-debian/copypasta-qt.desktop usr/share/applications
-debian/copypasta-qt.protocol usr/share/kde4/services/
+debian/fpsbetcoin-qt.desktop usr/share/applications
+debian/fpsbetcoin-qt.protocol usr/share/kde4/services/

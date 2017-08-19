@@ -756,7 +756,7 @@
           <string notr="true">color: rgb(0, 170, 0);</string>
          </property>
          <property name="text">
-          <string>123.456 CTRLV</string>
+          <string>123.456 fpsc</string>
          </property>
          <property name="textInteractionFlags">
           <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>

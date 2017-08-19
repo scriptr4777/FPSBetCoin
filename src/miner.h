@@ -3,8 +3,8 @@
 
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
-#ifndef COPYPASTA_MINER_H
-#define COPYPASTA_MINER_H
+#ifndef fpsbetcoin_MINER_H
+#define fpsbetcoin_MINER_H
 
 #include "main.h"
 #include "wallet.h"
@@ -27,4 +27,4 @@ bool CheckStake(CBlock* pblock, CWallet& wallet);
 /** Base sha256 mining transform */
 void SHA256Transform(void* pstate, void* pinput, const void* pinit);
 
-#endif // COPYPASTA_MINER_H
+#endif // fpsbetcoin_MINER_H

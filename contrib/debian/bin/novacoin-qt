@@ -4,13 +4,13 @@ set -e
 
 umask 077
 
-basedir=~/.copypasta
+basedir=~/.fpsbetcoin
 dbfile="$basedir/DB_CONFIG"
-cfgfile="$basedir/copypasta.conf"
+cfgfile="$basedir/fpsbetcoin.conf"
 
 [ -e "$basedir" ] || mkdir "$basedir"
 
-# Copypasta does not clean up DB log files by default
+# fpsbetcoin does not clean up DB log files by default
 [ -e "$dbfile" ] || echo 'set_flags DB_LOG_AUTOREMOVE' > "$dbfile"
 
-exec /usr/lib/copypasta/copypasta-qt "$@"
+exec /usr/lib/fpsbetcoin/fpsbetcoin-qt "$@"

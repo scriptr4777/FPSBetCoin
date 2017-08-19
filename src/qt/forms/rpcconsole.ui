@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>copypasta - Debug window</string>
+   <string>fpsbetcoin - Debug window</string>
   </property>
   <property name="styleSheet">
    <string notr="true"/>
@@ -39,7 +39,7 @@
           </font>
          </property>
          <property name="text">
-          <string>copypasta Core</string>
+          <string>fpsbetcoin Core</string>
          </property>
         </widget>
        </item>
@@ -325,7 +325,7 @@
        <item row="15" column="0">
         <widget class="QPushButton" name="openDebugLogfileButton">
          <property name="toolTip">
-          <string>Open the copypasta debug log file from the current data directory. This can take a few seconds for large log files.</string>
+          <string>Open the fpsbetcoin debug log file from the current data directory. This can take a few seconds for large log files.</string>
          </property>
          <property name="text">
           <string>&amp;Open</string>
@@ -351,7 +351,7 @@
        <item row="17" column="0">
         <widget class="QPushButton" name="showCLOptionsButton">
          <property name="toolTip">
-          <string>Show the copypasta-Qt help message to get a list with possible copypasta command-line options.</string>
+          <string>Show the fpsbetcoin-Qt help message to get a list with possible fpsbetcoin command-line options.</string>
          </property>
          <property name="text">
           <string>&amp;Show</string>

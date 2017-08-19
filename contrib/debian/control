@@ -1,4 +1,4 @@
-Source: copypasta
+Source: fpsbetcoin
 Section: utils
 Priority: optional
 Build-Depends: debhelper,
@@ -17,13 +17,13 @@ Build-Depends: debhelper,
  libqt4-dev,
  libqrencode-dev
 Standards-Version: 3.9.2
-Homepage: http://www.copypasta.co
+Homepage: http://www.fpsbetcoin.co
 
-Package: copypastad
+Package: fpsbetcoind
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: P2P digital currency - daemon
- Copypasta is a free open source peer-to-peer electronic currency system that
+ fpsbetcoin is a free open source peer-to-peer electronic currency system that
  is completely decentralized, without the need for a central server or
  trusted parties.  Users hold the private keys for their own coins and
  transact directly with each other, with the help of a P2P network to
@@ -34,10 +34,10 @@ Description: P2P digital currency - daemon
  Full transaction history is stored locally at each client. The size of
  this file grows over time.
  .
- This package provides copypastad, a combined daemon and CLI tool to
+ This package provides fpsbetcoind, a combined daemon and CLI tool to
  interact with the daemon.
 
-Package: copypasta-qt
+Package: fpsbetcoin-qt
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: P2P network based digital currency - Qt GUI
@@ -52,4 +52,4 @@ Description: P2P network based digital currency - Qt GUI
  Full transaction history is stored locally at each client.  The size of
  this file grows over time.
  .
- This package provides Copypasta-Qt, a GUI for Copypasta based on Qt.
+ This package provides fpsbetcoin-Qt, a GUI for fpsbetcoin based on Qt.

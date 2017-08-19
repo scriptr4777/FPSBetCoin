@@ -1,4 +1,4 @@
-// Copyright (c) 2013 copypasta Developers
+// Copyright (c) 2013 fpsbetcoin Developers
 
 #include <string.h>
 #include "pbkdf2.h"

@@ -1,6 +1,6 @@
 // Copyright (c) 2014 The ShadowCoin developers
-// Copyright (c) 2014-2015 The copypasta developers
-// Copyright (c) 2015 The copypasta developers
+// Copyright (c) 2014-2015 The fpsbetcoin developers
+// Copyright (c) 2015 The fpsbetcoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -590,7 +590,7 @@ bool SecMsgDB::EraseSmesg(unsigned char* chKey)
 void ThreadSecureMsg(void* parg)
 {
     // -- bucket management thread
-    RenameThread("copypasta-smsg"); // Make this thread recognisable
+    RenameThread("fpsbetcoin-smsg"); // Make this thread recognisable
     
     uint32_t delay = 0;
     
@@ -701,7 +701,7 @@ void ThreadSecureMsg(void* parg)
 void ThreadSecureMsgPow(void* parg)
 {
     // -- proof of work thread
-    RenameThread("copypasta-smsg-pow"); // Make this thread recognisable
+    RenameThread("fpsbetcoin-smsg-pow"); // Make this thread recognisable
     
     int rv;
     std::vector<unsigned char> vchKey;
