@@ -1,4 +1,4 @@
 obj/version.o: version.cpp version.h clientversion.h \
- /root/copy/src/obj/build.h
+ /home/illdevilinc/FPSBetCoin-X11/src/obj/build.h
 version.cpp version.h clientversion.h :
- /root/copy/src/obj/build.h :
+ /home/illdevilinc/FPSBetCoin-X11/src/obj/build.h :

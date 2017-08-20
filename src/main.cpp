@@ -2473,9 +2473,9 @@ bool LoadBlockIndex(bool fAllowNew)
         block.nVersion = 1;
         block.nTime    = 1503185173;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = !fTestNet ? 47772 : 47771;
+        block.nNonce   = !fTestNet ? 38669 : 38669;
 		
-        if (false && block.GetHash() != hashGenesisBlock)
+        if (true && block.GetHash() != hashGenesisBlock)
                       {
                            printf("Searching for genesis block...\n");
                            uint256 hashTarget = CBigNum().SetCompact(block.nBits).getuint256();
@@ -2517,7 +2517,7 @@ bool LoadBlockIndex(bool fAllowNew)
         printf("block.nNonce = %u \n", block.nNonce);
         block.print();
 //        assert(block.hashMerkleRoot == uint256("0x"));
-        assert(block.hashMerkleRoot == uint256("0x266cb0a75fac9fc3cd9e5b458c698714acc401de81888a9f5203987c809ecb2a"));
+        assert(block.hashMerkleRoot == uint256("0xc19cb8148fb9a9dbb458e9f78495ef0735a59def280b2019d2460c61a5147200"));
         assert(block.GetHash() == (!fTestNet ? hashGenesisBlock : hashGenesisBlockTestNet));
 
         // Start new block file
@@ -2808,7 +2808,7 @@ bool static ProcessMessage(CNode* pfrom, string strCommand, CDataStream& vRecv, 
         int64_t nTime;
         CAddress addrMe;
         CAddress addrFrom;
-        uint64_t nNonce = 1;
+        uint64_t nNonce = 0;
         vRecv >> pfrom->nVersion >> pfrom->nServices >> nTime >> addrMe;
         if (pfrom->nVersion < MIN_PEER_PROTO_VERSION)
         {
