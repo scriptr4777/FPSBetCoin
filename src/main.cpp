@@ -982,14 +982,14 @@ int64_t GetProofOfWorkReward(int nHeight, int64_t nFees, uint256 prevHash)
         nSubsidy = 0;
 	else if (nHeight == 6)
         nSubsidy = 2000000 * COIN;
-	else if (nHeight <= 5000)
-        nSubsidy = 10 * COIN;
-	else if (nHeight <= 55000)
+	else if (nHeight <= 5005)
         nSubsidy = 100 * COIN;
-	else if (nHeight <= 100000)
-        nSubsidy = 50 * COIN;
+	else if (nHeight <= 55005
+        nSubsidy = 1000 * COIN;
+	else if (nHeight <= 100005)
+        nSubsidy = 500 * COIN;
 	else if (nHeight <= LAST_POW_BLOCK)
-        nSubsidy = 45 * COIN;
+        nSubsidy = 375 * COIN;
 
     if (fDebug && GetBoolArg("-printcreation"))
         printf("GetProofOfWorkReward() : create=%s nSubsidy=%"PRId64"\n", FormatMoney(nSubsidy).c_str(), nSubsidy);
